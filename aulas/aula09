@@ -1,0 +1,50 @@
+Análise de caracteries
+
+Python é case sensitive
+
+len() - mostra a quantidade de caracteries.
+
+.count() - conta a quantidade de letras em uma frase. Podendo utilizar a fatiação para essa contagem.
+Ex.: frase.count('o', 0, 13)
+
+.find() - Em que momento determidado caracterer começa em uma frase.
+Ex.: frase.find('deo')
+
+in - ele informa se existe os caracteries na string.
+Ex.: 'Cruso' in frase
+
+Transformação
+
+.replace('') - substitui os caracteries em uma string.
+Ex.: frase.replace('Python', 'Android')
+
+.upper() - vai trocar as letras de minusculas para maiusculas.
+Ex.: frase.upper()
+
+.lower() - é ao contrário do upper, transforme tudo em minuscula.
+Ex.: frase.lower()
+
+.capitalize() - Altera todos os caracteres para minusculo, menos o primeiro caractere.
+Ex.: frase.capitalize()
+
+.title() - Analisa quantas palavras a string possui e transforma o primeiro caractere de cada palavra em maiuscula.
+Ex.: frase.title()
+
+strip() - remove todos os espaços do começo e do final da string.
+Ex.: frase.strip()
+
+.rstrip() - remove somente os ultimos espaços da string.
+Ex.: frase.rstrip()
+
+.lstrip() - remove somente os primeiros espaços da string.
+Ex.: frase.lstrip()
+
+Divisão
+
+.split() - cria uma divisão entre os espaços da string.
+Ex.: frase.split()
+
+Junção
+
+.join() - junta todos os elementos de uma frase usando algum separador.
+Ex.: '-'.join(frase)

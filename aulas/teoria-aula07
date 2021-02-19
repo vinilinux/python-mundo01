@@ -1,0 +1,17 @@
+# Soma e subtração
+10 + 2 - 7
+
+# Potência: 2 ^ 4
+2 ** 4
+
+# Divisão de ponto flutuante
+20 / 6
+
+# Divisão inteira, sem considerar o resto
+20 // 6
+
+# Resto da divisão
+20 % 6
+
+# Multiplicação
+5 * 2 

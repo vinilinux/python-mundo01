@@ -1,0 +1,18 @@
+Estrutura condicional
+
+Forma em PT:
+
+Se carro.esquerda()
+    bloco_v_
+senão
+    bloco_f_
+
+Demonstração na linguagem Python:
+
+if carro.esquerda():
+    bloco True
+else:
+    bloco False
+
+= - significa recebe
+== - significa igual
